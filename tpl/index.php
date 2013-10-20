@@ -38,7 +38,7 @@
                             <a href="http://www3441ui.sakura.ne.jp/wordpress/">Blog</a>
                         </li>
                         <li>
-                            <a href="http://news.bootswatch.com">GitHub</a>
+                            <a href="https://github.com/ikemonn/scraping/tree/master>GitHub</a>
                         </li>
                     </ul>
                   <ul class="nav navbar-nav navbar-right">
