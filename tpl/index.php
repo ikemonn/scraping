@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
     <head>
-        <title>本見つける</title>
+        <title>何読む？</title>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="./css/bootstrap.css" media="screen">
         <link rel="stylesheet" href="./css/bootswatch.min.css">
@@ -25,7 +25,7 @@
         <div class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a href="./" class="navbar-brand">本読む</a>
+                    <a href="./" class="navbar-brand">何読む？</a>
                     <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -38,7 +38,7 @@
                             <a href="http://www3441ui.sakura.ne.jp/wordpress/">Blog</a>
                         </li>
                         <li>
-                            <a href="https://github.com/ikemonn/scraping/tree/master>GitHub</a>
+                            <a href="https://github.com/ikemonn/scraping/tree/master">GitHub</a>
                         </li>
                     </ul>
                   <ul class="nav navbar-nav navbar-right">
